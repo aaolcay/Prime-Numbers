@@ -1,2 +1,2 @@
 # Prime-Numbers
-What is the prime number in math? 
+What is the prime numbers in math? 
